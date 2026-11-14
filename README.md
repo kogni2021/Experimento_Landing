@@ -1,13 +1,13 @@
 # 📊 Evaluación de Experimento A/B en Landing Page
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat)
+![Jupyter](https://img.shields.io/badge/Jupyter-notebook-F37626?style=flat)
+![pandas](https://img.shields.io/badge/pandas-data%20analysis-150458?style=flat)
+![NumPy](https://img.shields.io/badge/NumPy-numerical-013243?style=flat)
+![SciPy](https://img.shields.io/badge/SciPy-statistics-8CAAE6?style=flat)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-hypothesis%20testing-3776AB?style=flat)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-visualization-11557c?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-visualization-4c72b0?style=flat)
 
 Análisis estadístico y de negocio para evaluar el desempeño de dos versiones de una página de inicio (**Landing A vs. Landing B**) durante una ventana de 28 días, con el objetivo de respaldar decisiones estratégicas basadas en datos.
 
